@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ActivitiesLayout</string>
+    <string name="title">Checking Activity and Layouts</string>
+    <string name="imageCaption">Hi this is caption</string>
+</resources>
